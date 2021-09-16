@@ -1,0 +1,27 @@
+*
+{
+    text-align: center;
+}
+input
+{
+    text-align: initial;
+}
+body
+{
+    margin: 0 auto;
+    width:600px;
+}
+button
+{
+    margin-left:5px;
+}
+.list
+{
+    margin:5px 0;
+    border:1px solid black;
+
+}
+.list h4
+{
+    margin:5px 0;
+}
